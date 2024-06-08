@@ -1,6 +1,4 @@
-# PHP_Folder
-           THEE CALCULATOR
-
+   THEE CALCULATOR
 Overview
 The calculator application is a web-based tool designed to perform basic arithmetic calculations. It provides a user-friendly interface for users to input numbers and select the desired operation (addition, subtraction, multiplication, or division). The application then displays the result of the operation.PHP and Html have been used.
 
